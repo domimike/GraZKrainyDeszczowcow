@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 90c259987b8b2d442b3cc2e8dd06c483
+  - enabled: 1
+    path: Assets/SpringLVL.unity
+    guid: 9f1a914a334ceb0409a227ed6d25a65e
+  - enabled: 1
+    path: Assets/LavaLVL.unity
+    guid: 82226d7da8fd3c74bbdb583689236036
+  - enabled: 1
+    path: Assets/WaterLVL.unity
+    guid: cd4245c3cea8d8e48a20e21e57388306
+  - enabled: 1
+    path: Assets/SpringLVL2.unity
+    guid: 2480259aa479ee04bb0513dedb296c48
+  - enabled: 0
+    path: Assets/SpringLVL3.unity
+    guid: 562dc4f226b9c6e479c6a38aee79710d
+  - enabled: 1
+    path: Assets/WaterLVL2.unity
+    guid: 60424d1f3a36a1a4793c6b393c5caaed
+  - enabled: 1
+    path: Assets/WaterLVL3.unity
+    guid: d9995d8745e00d44a919e65d56d551b2
+  - enabled: 1
+    path: Assets/LavaLVL22.unity
+    guid: 42616b1a84f19c944bb908e787907955
+  - enabled: 1
+    path: Assets/LavaLVL23.unity
+    guid: d015d3a00e33a9c48a42ff2faa7eeb36
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

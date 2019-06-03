@@ -1,0 +1,2 @@
+C:\Users\MACIEK\Desktop\PennyPixel_2DTilemapProject — kopia\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\MACIEK\Desktop\PennyPixel_2DTilemapProject — kopia\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
